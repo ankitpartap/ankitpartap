@@ -1,10 +1,10 @@
 ## Hi there! 👋 I'm Ankit Partap  
 <br>
-##🚀 Tech Enthusiast | Web Developer | Educator | Lifelong Learner  <br><br>
+## 🚀 Tech Enthusiast | Web Developer | Educator | Lifelong Learner  <br><br>
 I'm a tech enthusiast with a passion for **web development, generative AI, and business**. I love exploring new technologies, solving problems, and building projects that make an impact.  
-<br>
+<br><br>
 
-##👨‍💻 What I Do  <br>
+## 👨‍💻 What I Do  <br>
 🔹 **Full-Stack Development** – Skilled in **ReactJS, NodeJS, JavaScript**, and currently learning the **MERN stack**.  <br>
 🔹 **Educator & Mentor** – I teach **C/C++, Java, Python, DBMS**, and computer basics to students and professionals.  <br>
 🔹 **Innovator** – Building projects like a self-checkout system for fashion stores, and a **budget-tracking web app** using React and Firebase.  <br>
