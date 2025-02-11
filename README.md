@@ -14,7 +14,8 @@ I'm a tech enthusiast with a passion for **web development, generative AI, and b
 ## 🎯 My Goals  <br>
 ✅ Build scalable and impactful applications.  <br>
 ✅ Contribute to open-source projects.  <br>
-✅ Share knowledge and help others grow in tech.  <br><br>
+✅ Share knowledge and help others grow in tech.  <br>
+✅ Build impactful SaaS products.  <br><br>
 
 ## ✨ Fun Facts  <br>
 💡 I love teaching and guiding others in their learning journey.  <br>
