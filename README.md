@@ -1,6 +1,5 @@
-💫 About Me:
 ## Hi there! 👋 I'm Ankit Partap  
-<br><br>
+<br>
 🚀 Tech Enthusiast | Web Developer | Educator | Lifelong Learner  <br><br>
 I'm a tech enthusiast with a passion for **web development, generative AI, and business**. I love exploring new technologies, solving problems, and building projects that make an impact.  
 <br><br>
