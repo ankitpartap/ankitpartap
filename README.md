@@ -8,7 +8,7 @@ I'm a tech enthusiast with a passion for **web development, generative AI, and b
 ## 👨‍💻 What I Do  <br>
 🔹 **Full-Stack Development** – Skilled in **ReactJS, NodeJS, JavaScript**, and currently learning the **MERN stack**.  <br>
 🔹 **Educator & Mentor** – I teach **C/C++, Java, Python, DBMS**, and computer basics to students and professionals.  <br>
-🔹 **Innovator** – Building projects like a self-checkout system for fashion stores, and a **budget-tracking web app** using React and Firebase.  <br>
+🔹 **Innovator** – Building projects like a self-checkout system for fashion stores, and a **budget-tracking web app** using React and Firebase.[Link](https://budget-tracker-af7e6.firebaseapp.com/) <br>
 🔹 **Problem Solver** – Passionate about **Data Structures & Algorithms (C++/Python)** and improving my coding skills.  <br>
 
 ## 🎯 My Goals  <br>
