@@ -23,7 +23,7 @@ I'm a tech enthusiast with a passion for **web development, generative AI, and b
 💬 Always up for discussions on **tech, AI, and business**.  <br><br>
 
 ## 📫 Let's Connect!  <br>
-💼 [LinkedIn](https://linkedin.com/in/ankitpartap) | 📧 [Email](mailto:ankitpartap47@gmail.com) | 🌐 [Portfolio]([ankitpartap.netlify.app](https://ankitpartap.netlify.app/))  <br><br>
+💼 [LinkedIn](https://linkedin.com/in/ankitpartap) | 📧 [Email](mailto:ankitpartap47@gmail.com) | 🌐 [Portfolio](https://ankitpartap.netlify.app/)  <br><br>
 
 
 ## 🌐 Socials:
